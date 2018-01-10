@@ -1,0 +1,3 @@
+[submodule "sunvox_dll"]
+	path = sunvox_dll
+	url = https://github.com/warmplace/sunvox_dll
