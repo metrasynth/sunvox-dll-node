@@ -1,6 +1,6 @@
 {
   "name": "sunvox-dll-node",
-  "version": "1.9.3.0",
+  "version": "1.9.3-0",
   "description": "Read, write, modify, and create SunVox files",
   "main": "src/index.js",
   "repository": {
